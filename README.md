@@ -14,6 +14,8 @@
 
 <!-- https://user-images.githubusercontent.com/40832965/155907865-0b81fc51-333d-400f-a457-2c1a5f8f2c4b.mp4 -->
 
+### 3.Class diagram
+![class](https://user-images.githubusercontent.com/40832965/155911690-08a5f117-d47f-4452-9a26-362e026bf537.png)
 
   
  ### 3. Requirements

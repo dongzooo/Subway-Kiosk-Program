@@ -1,5 +1,6 @@
 # Subway-Kiosk-Program
- Kiosk program using Python
+
+
  ### 1. Overview
  - 한국외국어대학교 소프트웨어 공학 3조 키오스크 제작
  - 서브웨이 매장에 키오스크가 없어 직접 구현해보고 싶어 만듬
@@ -8,9 +9,10 @@
  
  
  ### 2. Demo Video
- 
 
-https://user-images.githubusercontent.com/40832965/155907865-0b81fc51-333d-400f-a457-2c1a5f8f2c4b.mp4
+[![데모동영영상 ](http://img.youtube.com/vi/e7-lKwutfhM/0.jpg)](https://www.youtube.com/embed/e7-lKwutfhM) 
+
+<!-- https://user-images.githubusercontent.com/40832965/155907865-0b81fc51-333d-400f-a457-2c1a5f8f2c4b.mp4 -->
 
 
   
